@@ -1,24 +1,3 @@
-----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
--- 
--- Create Date: 02.07.2025 12:50:09
--- Design Name: 
--- Module Name: btn_led - Behavioral
--- Project Name: 
--- Target Devices: 
--- Tool Versions: 
--- Description: 
--- 
--- Dependencies: 
--- 
--- Revision:
--- Revision 0.01 - File Created
--- Additional Comments:
--- 
-----------------------------------------------------------------------------------
-
-
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
@@ -50,7 +29,7 @@ architecture Behavioral of btn_led is
 
 begin
 
---zamanlama yöntemi
+--zamanlama yï¿½ntemi
     process(clk)
         begin
             if rising_edge(clk) then
