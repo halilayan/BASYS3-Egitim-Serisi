@@ -1,10 +1,10 @@
 ----------------------------------------------------------------------------------
 -- Company: 
--- Engineer: 
+-- Engineer: Halil İbrahim Ayan
 -- 
--- Create Date: 08.07.2025 11:15:21
+-- Create Date: 
 -- Design Name: 
--- Module Name: top_sw_display - Behavioral
+-- Module Name: top_display - Behavioral
 -- Project Name: 
 -- Target Devices: 
 -- Tool Versions: 

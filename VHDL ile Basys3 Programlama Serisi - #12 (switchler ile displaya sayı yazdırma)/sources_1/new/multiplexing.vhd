@@ -1,8 +1,8 @@
 ----------------------------------------------------------------------------------
 -- Company: 
--- Engineer: 
+-- Engineer: Halil İbrahim Ayan
 -- 
--- Create Date: 08.07.2025 11:14:00
+-- Create Date: 
 -- Design Name: 
 -- Module Name: multiplexing - Behavioral
 -- Project Name: 

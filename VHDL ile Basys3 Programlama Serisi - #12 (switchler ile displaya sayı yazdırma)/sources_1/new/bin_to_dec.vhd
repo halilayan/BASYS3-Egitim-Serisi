@@ -1,8 +1,8 @@
 ----------------------------------------------------------------------------------
 -- Company: 
--- Engineer: 
+-- Engineer: Halil İbrahim Ayan
 -- 
--- Create Date: 07.07.2025 20:17:14
+-- Create Date: 
 -- Design Name: 
 -- Module Name: bin_to_dec - Behavioral
 -- Project Name: 
