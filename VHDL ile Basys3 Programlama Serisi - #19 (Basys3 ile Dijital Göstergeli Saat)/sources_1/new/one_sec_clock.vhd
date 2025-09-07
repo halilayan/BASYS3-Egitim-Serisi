@@ -4,7 +4,7 @@
 -- 
 -- Create Date: 
 -- Design Name: 
--- Module Name: 1_sec_clock - Behavioral
+-- Module Name: one_sec_clock - Behavioral
 -- Project Name: 
 -- Target Devices: 
 -- Tool Versions: 
